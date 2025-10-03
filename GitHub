@@ -1,0 +1,10 @@
+wax-alert-bot/
+│
+├── bot.py                # main bot entry
+├── price.py              # WAX price module (Coingecko + chart)
+├── alerts.py             # price alerts module
+├── tx.py                 # large blockchain transactions (Waxblock.io)
+├── drops.py              # NFT drops + top collections (Neftyblocks)
+├── config.py             # config, API keys, bot token
+├── requirements.txt      # dependencies
+└── README.md             # documentation
