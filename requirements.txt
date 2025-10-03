@@ -1,1 +1,5 @@
-python-telegram-bot==20.6
+python-telegram-bot==20.4
+requests
+matplotlib
+pillow
+
